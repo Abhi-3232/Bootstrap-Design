@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: #7952b3;
+}
+.nav-item a{
+    color: rgba(255,255,255,0.85);
+}
+.collapse img{
+    height: 40px;
+    width: 48px;
+    margin: 4px 0px;
+}
+.nav-item:hover a{
+    color: #fff;
+}
+.first p{
+    margin-bottom: 4px;
+    font-size: 12px;
+}
+
+.first p:hover a{
+    background-color: rgb(228, 228, 228);
+}
+.first{
+    height: 88vh;
+    position: sticky !important;
+    top:80px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.second{
+    display: flex;
+    text-align: justify;
+}
+.second .container{
+    margin-left: 18px;
+}
+.second .container h1{
+    font-size: 48px;
+}
+.Third{
+    height: 88vh;
+    position: sticky !important;
+    top: 80px;
+}
+.sticky-nav{
+    position: relative;
+}
+.heading{
+    font-weight: 600 !important;
+}
+.decoration{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0px;
+}
+.hrline{
+    margin-left: 25px;
+    width: 80%;
+}
+.col-2 a{
+    margin-bottom: 6px;
+
+}
+p a{
+    font-weight: 600 !important;
+}
+.fa{
+    color: rgba(255,255,255,0.85);
+    margin-right: 15px;
+    margin-top: 12px;
+}
+.button-container{
+    padding: 28px;
+    padding-left: 25px;
+}
+.button-container button{
+    margin-left: 0px;
+    margin-right: 2px;
+}
+.inside{
+    background-color: #f5f5f5;;
+}
